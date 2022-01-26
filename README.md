@@ -9,3 +9,5 @@ I make code for fun, I recently started using Github again!
 You can check my repositories to your liking.
 #
 [![flagpatch's Github Stats](https://github-readme-stats.vercel.app/api?username=flagpatch)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![flagpatch's Stats](https://github-readme-streak-stats.herokuapp.com/?user=flagpatch)](https://github.com/anuraghazra/github-readme-stats)
