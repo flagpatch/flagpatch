@@ -7,3 +7,5 @@ Please join the Beginner.Codes Discord server:
 I make code for fun, I recently started using Github again!
 <br>
 You can check my repositories to your liking.
+#
+[![flagpatch's Github Stats](https://github-readme-stats.vercel.app/api?username=flagpatch)](https://github.com/anuraghazra/github-readme-stats)
