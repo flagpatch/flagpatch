@@ -1,8 +1,6 @@
 ### Hi there, I am flagpatch! 👋
-Please join the Beginner.Codes Discord server:
+Please join Guilded (a good chat app) using my refferal: https://www.guilded.gg?r=mGMWP9k4
 <br>
-<a href="https://discord.gg/FGH5tDynnh" alt="Beginner.Codes"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord&labelColor=4855E2"/></a>
-#
 ## More about me!
 I make code for fun, I recently started using Github again!
 <br>
